@@ -1,0 +1,9 @@
+C:\Users\Oo\Desktop\NET\NET_project\NET_project\bin\Debug\netstandard2.0\NET_project.deps.json
+C:\Users\Oo\Desktop\NET\NET_project\NET_project\bin\Debug\netstandard2.0\NET_project.dll
+C:\Users\Oo\Desktop\NET\NET_project\NET_project\bin\Debug\netstandard2.0\NET_project.pdb
+C:\Users\Oo\Desktop\NET\NET_project\NET_project\obj\Debug\netstandard2.0\NET_project.csprojAssemblyReference.cache
+C:\Users\Oo\Desktop\NET\NET_project\NET_project\obj\Debug\netstandard2.0\NET_project.AssemblyInfoInputs.cache
+C:\Users\Oo\Desktop\NET\NET_project\NET_project\obj\Debug\netstandard2.0\NET_project.AssemblyInfo.cs
+C:\Users\Oo\Desktop\NET\NET_project\NET_project\obj\Debug\netstandard2.0\NET_project.csproj.CoreCompileInputs.cache
+C:\Users\Oo\Desktop\NET\NET_project\NET_project\obj\Debug\netstandard2.0\NET_project.dll
+C:\Users\Oo\Desktop\NET\NET_project\NET_project\obj\Debug\netstandard2.0\NET_project.pdb
